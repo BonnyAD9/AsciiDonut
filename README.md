@@ -13,3 +13,4 @@
 - `L` Look right
 - `Enter` Toggle donut rotation
 - `Tab` Toggle bethween ascii and ansi version
+- `Esc` Exit
